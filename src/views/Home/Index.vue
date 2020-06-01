@@ -127,7 +127,7 @@
                   data-wow-delay="300ms">
                   <div class="section-heading text-center white">
                     <div class="line-"/>
-                    <h2>Poop Pool</h2>
+                    <h2>Lorem ipsum</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris
                     sceleri sque, at rutrum nulla dictum. Ut ac ligula sapien. Suspendisse cursus faucibus finibus.
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada lorem maximus mauris
@@ -138,19 +138,19 @@
                     <div class="col-12 col-sm-4">
                       <div class="pool-feature">
                         <i class="iconfont icon-lvyouchengshijianzhucity-nongminfarmer"/>
-                        <p>Poop Beachbar</p>
+                        <p>Lorem ipsum</p>
                       </div>
                     </div>
                     <div class="col-12 col-sm-4">
                       <div class="pool-feature">
                         <i class="iconfont icon-sheep"/>
-                        <p>Infinity Poop</p>
+                        <p>Lorem ipsum</p>
                       </div>
                     </div>
                     <div class="col-12 col-sm-4">
                       <div class="pool-feature">
                         <i class="iconfont icon-nongyaohuafei"/>
-                        <p>Sunpoops</p>
+                        <p>Lorem ipsum</p>
                       </div>
                     </div>
                   </div>
@@ -248,39 +248,39 @@ export default {
       sliding: null,
       carouselImgs: [
         {
-          name: 'calf',
+          name: 'Lorem ipsum',
           src: require('../../assets/carousel/calf.jpg'),
-          info: 'THIS IS A CALF',
+          info: 'Lorem ipsum',
         },
         {
-          name: 'farmer',
+          name: 'Lorem ipsum',
           src: require('../../assets/carousel/farmer.jpg'),
-          info: 'THIS IS A FARMER',
+          info: 'Lorem ipsum',
         },
         {
-          name: 'blue',
+          name: 'Lorem ipsum',
           src: require('../../assets/carousel/blue.jpg'),
-          info: 'THIS IS A BLUE FEMALE',
+          info: 'Lorem ipsum',
         },
         {
-          name: 'sheep',
+          name: 'Lorem ipsum',
           src: require('../../assets/carousel/sheep.jpg'),
-          info: 'SHEEEEEEEPA',
+          info: 'Lorem ipsum',
         },
         {
-          name: 'calves',
+          name: 'Lorem ipsum',
           src: require('../../assets/carousel/calves.jpg'),
-          info: 'CALVES. EDIBLE',
+          info: 'Lorem ipsum',
         },
         {
-          name: 'pumpkin',
+          name: 'Lorem ipsum',
           src: require('../../assets/carousel/pumpkin.jpg'),
-          info: 'HALLOWEENS OVER',
+          info: 'Lorem ipsum',
         },
         {
-          name: 'boyAndDuck',
+          name: 'Lorem ipsum',
           src: require('../../assets/carousel/boy-and-duck.jpeg'),
-          info: 'BOI AND DUCKY',
+          info: 'Lorem ipsum',
         },
       ],
       introductionPara: {
